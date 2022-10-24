@@ -6,7 +6,7 @@
 <meta name="description" content=" " />
 <title>網頁標題</title>
 <!--註解喔 -->
-<p1>好ㄟ</p1>
+
 </head>
 <body>
 <?php 
